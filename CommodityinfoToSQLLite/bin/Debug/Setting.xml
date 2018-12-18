@@ -1,0 +1,4 @@
+<PathSetting>
+  <Information Type="CommodityInfo" Path="D:\commodityinfo.csv" />
+  <Information Type="DataBase" Path="D:\dataservice.db3" />
+</PathSetting>
